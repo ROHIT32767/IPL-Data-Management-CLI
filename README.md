@@ -1,20 +1,21 @@
 # <center> Data And Applications
-# <center> Project Phase 4
-
-### <div style="text-align: right"> Abhinav Reddy Boddu
-#### <div style="text-align: right"> 2021101034
-### <div style="text-align: right"> Rohit Gowlapalli
-#### <div style="text-align: right"> 2021101113
-### <div style="text-align: right"> Gnana Prakash Punnavajhala
-#### <div style="text-align: right"> 2021111027
-
+# <center> IPL Data Management CLI
 <hr>
-
-### <ins>Video link:</ins>
-- https://drive.google.com/file/d/1noNfVKUjKp-8GLd_q4MqPYrwGPH7_R92/view?usp=sharing
-
+    
+### ER-Diagram
+![ER-Diagram](https://github.com/ROHIT32767/IPL-Data-Management-CLI/assets/102759922/3d1672db-f718-46e7-8d30-2c6d246718e4)
+### Entity-Relationship Diagram
+![Entity-Relationship](https://github.com/ROHIT32767/IPL-Data-Management-CLI/assets/102759922/9ac880e6-3b33-4c63-ac51-e956c34ec3b2)
+### Relational-Database DIagram
+![Relational-Database](https://github.com/ROHIT32767/IPL-Data-Management-CLI/assets/102759922/78db914f-3311-4848-82ce-37c7eb876d2f)  
+### <ins>Demonstration Video link:</ins> [Here](https://drive.google.com/file/d/1noNfVKUjKp-8GLd_q4MqPYrwGPH7_R92/view?usp=sharing)
+    
 ### <ins>Commands to be executed:</ins>
-
+```
+All these commands are tested on Ubuntu Version 20.04.3 LTS (Focal Fossa)
+Use the `Dump.sql` file to load data into sql
+Change the username and password to the details of the system on which testing is being done in the `Miniworld.py` file (lines `887` and `888`)
+```
 - Command 1 - enter 1
 
     `Insert Player`
@@ -216,9 +217,9 @@
      If executed successfully, list of all teams with win rate > 70% in the home stadium are displayed
 
 <hr>
+    
+# <center> Contributors
 
-- `Note 1:` All these commands are tested on Ubuntu Version 20.04.3 LTS (Focal Fossa) 
-- `Note 2:` Use the `Dump.sql` file to load data into sql
-- `Note 3:` Change the username and password to the details of the system on which testing is being done in the `Miniworld.py` file (lines `887` and `888`)
-
-<hr>
+### <div style="text-align: right"> [Abhinav Reddy Boddu](https://github.com/Abhinavreddy-B)
+### <div style="text-align: right"> [Rohit Gowlapalli](https://github.com/ROHIT32767)
+### <div style="text-align: right"> [Gnana Prakash Punnavajhala](https://github.com/GnanaPrakashSG2004)
